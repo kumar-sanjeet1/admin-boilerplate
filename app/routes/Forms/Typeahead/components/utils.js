@@ -1,4 +1,4 @@
-import fetch from 'isomorphic-fetch';
+
 
 const SEARCH_URI = 'https://api.github.com/search/users';
 
